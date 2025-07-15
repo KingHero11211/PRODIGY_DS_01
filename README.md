@@ -54,8 +54,9 @@ While the core task was to create a single chart, this project goes a step furth
 
 The output is a single figure containing a dashboard of four distinct plots, each providing a unique insight into the world's population in 2020.
 
-*(You can add a screenshot of your output plot here)*
-`![Population Dashboard](your_image_filename.png)`
+**Final Dashboard Output:**
+
+![World Population Dashboard](dashboard_screenshot.png)
 
 ### 1. Top 10 Most Populous Countries (Horizontal Bar Chart)
 *   Displays the 10 countries with the highest populations in 2020.

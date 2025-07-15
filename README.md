@@ -56,7 +56,7 @@ The output is a single figure containing a dashboard of four distinct plots, eac
 
 **Final Dashboard Output:**
 
-![World Population Dashboard](dashboard_screenshot.png)
+![World Population Dashboard](https://github.com/user-attachments/assets/3f337711-c879-4e6f-9621-685d299ef0ff)
 
 ### 1. Top 10 Most Populous Countries (Horizontal Bar Chart)
 *   Displays the 10 countries with the highest populations in 2020.
